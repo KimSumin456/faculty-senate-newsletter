@@ -62,6 +62,16 @@ body {
   padding: 14px 24px;
   font-size: 21px;
 }
+.jumbotron h4 {
+  text-align: left;
+}
+.jumbotron p {
+  font-size: 13pt;
+  text-align: left;
+}
+.thumbnail > img {
+  min-height: 240px;
+}
 
 /* Supporting marketing content */
 .marketing {
